@@ -1,6 +1,6 @@
 {
     "__comment01__": "Api key from <https://makersuite.google.com/app/apikey>",
-    "api_key": "",
+    "api_key": "AIzaSyBcn72Ft0soGLI6G20ApAxcKLz6bpDzXO8",
 
     "__comment02__": "AI config. See <https://ai.google.dev/api/python/google/generativeai/GenerationConfig> for more",
     "temperature": 0.9,
