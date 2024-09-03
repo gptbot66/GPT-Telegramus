@@ -45,7 +45,7 @@
     "__comment06__": "Telegram bot config",
     "telegram": {
         "__comment01__": "Provide your bot api key from <https://t.me/BotFather>",
-        "api_key": "6860129512:AAF-2SuaLTECdk1EWWVQIALI-JJyBfR2i_M",
+        "api_key": "6924966001:AAFEy2CXgY9NhiUYb-ThLoKgZfYVA8BgIQw",
 
         "__comment02__": "IDs of users who can use admin commands (to get id, you can use /chatid command)",
         "admin_ids": [6852466918],
