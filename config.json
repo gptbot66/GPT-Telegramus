@@ -46,13 +46,13 @@
     "__comment06__": "Telegram bot config",
     "telegram": {
         "__comment01__": "Provide your bot api key from <https://t.me/BotFather>",
-        "api_key": "",
+        "api_key": "6924966001:AAFEy2CXgY9NhiUYb-ThLoKgZfYVA8BgIQw",
 
         "__comment02__": "IDs of users who can use admin commands (to get id, you can use /chatid command)",
-        "admin_ids": [],
+        "admin_ids": [6852466918],
 
         "__comment03__": "Set to true to block new users by default (whitelist)",
-        "ban_by_default": false,
+        "ban_by_default": true,
 
         "__comment04__": "Size of the request queue (other messages will be rejected)",
         "queue_max": 10,
