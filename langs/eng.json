@@ -38,7 +38,7 @@
     "seconds": "s",
     "ban_message_admin": "✅ Banned user: {banned_user}\n\nReason: {ban_reason}",
     "ban_no_user_id": "❌ Error! Please specify user_id",
-    "ban_message_user": "❌ You're not whitelisted or you have been banned!\n\nReason: {ban_reason}",
+    "ban_message_user": "❌ You're not whitelisted or you have been banned!\n\nReason: {ban_reason}\n\nContact: @kaifsarkar53",
     "ban_reason_default": "Reason not specified",
     "unban_message_admin": "✅ Unbanned user: {unbanned_user}",
     "broadcast_no_message": "❌ No message to broadcast!",
