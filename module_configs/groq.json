@@ -1,6 +1,6 @@
 {
     "__comment01__": "Api key from <https://console.groq.com/keys>",
-    "api_key": "",
+    "api_key": "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",
 
     "__comment02__": "Groq API base URL",
     "base_url": "https://api.groq.com",
