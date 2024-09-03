@@ -4,7 +4,7 @@
     "language_select_error": "❌ Error selecting language!\n\n{error_text}",
     "language_select": "Please select an interface language",
     "language_changed": "🇺🇸 You've selected English\n\nYou can change the language at any time by typing the /lang command",
-    "start_message": "Hello, 👋 choomba! 👋\n\n📄 Sarkar-GPT version {version}\n\n💜 GPT-Telegramus author: kaif (aka kaifsarkar)\n\nDeveloper: @kaifsarkar53",
+    "start_message": "Hello, 👋 choomba! 👋\n\n📄 Sarkar-GPT version {version}\n\n💜 Sarkar-GPT author: kaif (aka kaifsarkar)\n\nDeveloper: @kaifsarkar53",
     "help_message": "📄 /start - Welcome message and bot version\n❓ /help - Show this message\n↕ /module - Change module to chat with\n🧹 /clear - Clear chat history\n🌎 /lang - Change the language\n🆔 /chatid - Show your chat_id\n\nNow to get started send me any message 💬",
     "help_message_admin": "Admin commands:\n\n💬 /queue - Show requests queue\n🔃 /restart [module, optional] - Restart module (or all of them), reload config, languages and commands\n👤 /users - Show list of all users\n🔨 /ban <id> [reason] - Ban a user by their id with reason (optional)\n🔓 /unban <id> - Unban a user by their id\n📢 /broadcast <message> - Send text message to everyone except banned users",
     "empty_request_module_changed": "✅ Your module has been changed to {module_name}\nNow send me your request as a message",
