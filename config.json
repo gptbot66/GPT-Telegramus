@@ -9,6 +9,7 @@
         "__comment01__": "Enabled modules",
         "enabled": [
             "ms_copilot",
+            "lmao_ms_copilot",
             "gemini",
             "ms_copilot_designer",
             "groq"
