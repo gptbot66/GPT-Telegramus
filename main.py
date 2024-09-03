@@ -34,6 +34,9 @@ import users_handler
 import queue_handler
 import bot_handler
 import module_wrapper_global
+from keep_alive import keep_alive
+
+keep_alive()
 
 # Default config file
 CONFIG_FILE = "config.json"
