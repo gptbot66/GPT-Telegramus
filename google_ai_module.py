@@ -107,7 +107,7 @@ class GoogleAIModule:
                 safety_settings=safety_settings,
             )
             self._vision_model = genai.GenerativeModel(
-                model_name="gemini-pro-vision",
+                model_name="gemini-1.5-pro-latest",
                 generation_config=generation_config,
                 safety_settings=safety_settings,
             )
