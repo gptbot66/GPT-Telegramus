@@ -15,7 +15,7 @@
         ],
 
         "__comment02__": "Default (initial) module for handling user messages",
-        "default": "lmao_chatgpt",
+        "default": "groq",
 
         "__comment03__": "Specify modules for which to use web API instead of python package. ex: ['lmao_chatgpt']",
         "lmao_web_for_modules": [],
